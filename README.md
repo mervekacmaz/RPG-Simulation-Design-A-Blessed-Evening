@@ -35,7 +35,6 @@ Game Engine: Unity
 
 
 THE TEAM
-
 Game Designer and Project Manager
 Artist 1 
 Artist 2
@@ -45,7 +44,6 @@ QA
 
 
 SCOPE OF THE PROJECT
-
 Game Content: The game will include different characters, unlockable items, and some quests along the way. 
 
 Target Audience: Casual gamers / RPG and Pixel Art enthusiasts 12+ who are seeking a relaxing gaming experience. 
@@ -80,17 +78,15 @@ Recipes -players can form their own beverages and desserts-
 Quests:
 There will be small quests given the main character by guests for the next party. The player should remember them and act accordingly. They will be RANDOM.
 
+
 Core Mechanics: 
-
 Party Management: Players will organize tea parties, prepare the venues, arrange the seating and serve the guests. 
-
 Conversation and Social Interaction: Players will engage in conversations with guests and choose responses for a delightful evening. They can navigate through different topics and respond appropriately to different personalities. They will also earn guests’ favor and unlock new abilities if they do the quests given by them.
-
 Resource Management: Players should manage resources such as tea leaves, ingredients, equipment, etc.
+
 
 Side Mechanics:
 
 Tea Crafting: Players can experiment with different tea blends, flavors, etc. They can discover recipes and serve them to their guests. 
-
 Small Quests and Narrative: Guests will ask players some stuff for players to remember for the next party. If the player completes them, they’ll get to unlock special items. 
 
