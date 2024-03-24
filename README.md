@@ -1,31 +1,29 @@
 # RPG-Simulation-Design-A-Blessed-Evening
 
-  A Blessed Evening is an immersive pixel art game that allows players to host, organize, and manage delightful tea parties in the comfort of their sweet home. With its cute visuals, charming characters, interesting topics, and peaceful gameplay, A Blessed Evening is a must-try. 
-
-	The game revolves around the protagonist Jade who is tasked with hosting successful tea parties by managing conversations, serving drinks, and ensuring the guests have a good time.
-
-	The game is presented to you by our independent game studio TeaPot with a team of 6. 
+ A Blessed Evening is an immersive pixel art game that allows players to host, organize, and manage delightful tea parties in the comfort of their sweet home. With its cute visuals, charming characters, interesting topics, and peaceful gameplay, A Blessed Evening is a must-try. 
+ The game revolves around the protagonist Jade who is tasked with hosting successful tea parties by managing conversations, serving drinks, and ensuring the guests have a good time.
+ The game is presented to you by our independent game studio TeaPot with a team of 6. 
 
 
 KEY FEATURES
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/da4cbc3e-9b16-4907-9589-1c562f5104c2)
 
 
-	Charming Pixel Art: A Blessed Evening invites players to a visually stunning pixel art world with detailed animations, cozy venues that can be modified, and calming colors.
+ Charming Pixel Art: A Blessed Evening invites players to a visually stunning pixel art world with detailed animations, cozy venues that can be modified, and calming colors.
 
-	Calming Atmosphere and Mechanics: This is a game you would play after a long day at work. Sit down, play and calm yourself down with branching dialogue trees, different tea flavors and vibes while modifying your space to give better experience for the guests Enjoy a stress-free gaming experience.
+ Calming Atmosphere and Mechanics: This is a game you would play after a long day at work. Sit down, play and calm yourself down with branching dialogue trees, different tea flavors and vibes while modifying your space to give better experience for the guests Enjoy a stress-free gaming experience.
 
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/bea6fba8-2ae5-4770-8f3d-05039e083e92)
 
-	Diverse Characters and Personalities: There is a cast of unique and memorable characters, each with their own personalities and stories to discover.
+ Diverse Characters and Personalities: There is a cast of unique and memorable characters, each with their own personalities and stories to discover.
 
-	Unlockables and progression: You can unlock new decorations and special items as you get better at the game to add depth and customization to your game.
+ Unlockables and progression: You can unlock new decorations and special items as you get better at the game to add depth and customization to your game.
 
 
-	A Blessed Evening is a good crafted pixel art game presents a unique and relaxing gaming experience. With a dedicated team, a good development plan, and a well-defined marketing strategy, we believe we can bring this game to reality. 
+ A Blessed Evening is a good crafted pixel art game presents a unique and relaxing gaming experience. With a dedicated team, a good development plan, and a well-defined marketing strategy, we believe we can bring this game to reality. 
 
-	To support the development of A Blessed Evening, we are seeking funding to cover the production costs. The projected budget includes expenses for team salaries, software and equipment, art and audio assets, marketing campaigns, and post-launch support.
-	We have developed a marketing plan targeting a range of players who appreciate pixel art aesthetics and calming, stress-free gaming. Our marketing strategy includes social media campaigns, press releases, collaborations with streamers, and participation in gaming events.
+ To support the development of A Blessed Evening, we are seeking funding to cover the production costs. The projected budget includes expenses for team salaries, software and equipment, art and audio assets, marketing campaigns, and post-launch support.
+ We have developed a marketing plan targeting a range of players who appreciate pixel art aesthetics and calming, stress-free gaming. Our marketing strategy includes social media campaigns, press releases, collaborations with streamers, and participation in gaming events.
 
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/b64062c7-49ca-41d4-b678-0c8e9cdcb7b9)
 
