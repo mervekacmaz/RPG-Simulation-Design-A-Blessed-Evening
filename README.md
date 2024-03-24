@@ -5,7 +5,7 @@
  The game is presented to you by our independent game studio TeaPot with a team of 6. 
 
 
-KEY FEATURES
+#KEY FEATURES
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/da4cbc3e-9b16-4907-9589-1c562f5104c2)
 
 
@@ -28,27 +28,29 @@ KEY FEATURES
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/b64062c7-49ca-41d4-b678-0c8e9cdcb7b9)
 
 
-Genre: Role-playing simulation
-Art Style: Pixel Art
-Platform: PC
-Game Engine: Unity
+#Genre: Role-playing simulation
+#Art Style: Pixel Art
+#Platform: PC
+#Game Engine: Unity
 
 
-THE TEAM
-Game Designer and Project Manager
-Artist 1 
-Artist 2
-Sound Designer
-Programmer
-QA
+#THE TEAM
+
+   Game Designer and Project Manager
+   Artist 1 
+   Artist 2
+   Sound Designer
+   Programmer
+   QA
 
 
-SCOPE OF THE PROJECT
-Game Content: The game will include different characters, unlockable items, and some quests along the way. 
+#SCOPE OF THE PROJECT
 
-Target Audience: Casual gamers / RPG and Pixel Art enthusiasts 12+ who are seeking a relaxing gaming experience. 
+   Game Content: The game will include different characters, unlockable items, and some quests along the way. 
 
-Characters (we are planning to add more characters with updates after the game’s success):
+   Target Audience: Casual gamers / RPG and Pixel Art enthusiasts 12+ who are seeking a relaxing gaming experience. 
+
+   Characters (we are planning to add more characters with updates after the game’s success):
 
 Jade (main)
 Mrs. Green
@@ -59,7 +61,7 @@ Fern
 Becky
 Captain
 
-Venues:
+#Venues:
 Secret Garden
 Home – Living Room
 Terrace
@@ -67,7 +69,7 @@ Forest
 
 ![image](https://github.com/mervekacmaz/RPG-Simulation-Design-A-Blessed-Evening/assets/83896575/493ad654-eb9f-4a18-9fad-983198f651ef)
 
-Defaults and Unlockables:
+#Defaults and Unlockables:
 Variety of Teas (black, green, oolong, white, hibiscus, herbal, lemon, milk, ginger, peppermint, bergamot)
 Decorations (table settings, floral arrangements, curtains, lighting options)
 Outfits
@@ -75,18 +77,17 @@ Treats (cookies, cakes)
 Recipes -players can form their own beverages and desserts-
 
 
-Quests:
+#Quests:
 There will be small quests given the main character by guests for the next party. The player should remember them and act accordingly. They will be RANDOM.
 
 
-Core Mechanics: 
+#Core Mechanics: 
 Party Management: Players will organize tea parties, prepare the venues, arrange the seating and serve the guests. 
 Conversation and Social Interaction: Players will engage in conversations with guests and choose responses for a delightful evening. They can navigate through different topics and respond appropriately to different personalities. They will also earn guests’ favor and unlock new abilities if they do the quests given by them.
 Resource Management: Players should manage resources such as tea leaves, ingredients, equipment, etc.
 
 
-Side Mechanics:
-
+#Side Mechanics:
 Tea Crafting: Players can experiment with different tea blends, flavors, etc. They can discover recipes and serve them to their guests. 
 Small Quests and Narrative: Guests will ask players some stuff for players to remember for the next party. If the player completes them, they’ll get to unlock special items. 
 
